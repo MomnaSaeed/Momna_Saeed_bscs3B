@@ -80,7 +80,7 @@ int main()
 	}
 	else
 	{
-		cout << "\n\ Error in matrices:Multiplication cannot be done";
+		cout << "\n\n Error in matrices:Multiplication cannot be done";
 	}
 	_getch();
 	return 0;
